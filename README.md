@@ -38,7 +38,7 @@ To use the AI chatbot, simply type your question in the input field and press en
 
 ## License
 
-This project is licensed under the terms of the [MIT](https://choosealicense.com/licenses/mit/) license. See LICENSE for more information.
+This project is licensed under the terms of the [MIT](LICENSE) license. See LICENSE for more information.
 
 ## 🛠 Skills
 
